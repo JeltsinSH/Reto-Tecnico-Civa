@@ -1,0 +1,4 @@
+-Base de datos esta creada en mysql, crear la base de datos civa y luego importar el archivo sql.
+-Backend esta creado con spring configurado con usuario root y sin contraseña.
+-El frontend creado en react, descargar repo y ejecutar npm install antes de ejecutar la aplicación.
+-Se ha utilizado Xampp para la db.
